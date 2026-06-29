@@ -15,8 +15,8 @@ website:
         href: research.qmd
       - text: "Publications"
         href: publications.qmd
-      - text: "Talks"
-        href: talks.qmd
+      # - text: "Talks"
+      #   href: talks.qmd
       - text: "Supervision"
         href: supervision.qmd
       - text: "Admin"
