@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Daniela Castro-Camilo"
+  site-url: "https://dcastrocamilo.github.io/dcc/"
+  navbar:
+    background: "#13294B"
+    foreground: "#ffffff"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Talks"
+        href: talks.qmd
+      - text: "Supervision"
+        href: supervision.qmd
+      - text: "Admin"
+        href: admin.qmd
+    right:
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=yeGAdSoAAAAJ&hl=en&oi=ao
+      - icon: person-badge
+        href: https://orcid.org/0000-0002-7536-4613
+      - icon: github
+        href: https://github.com/dcastrocamilo
+      - icon: envelope
+        href: mailto:Daniela.CastroCamilo@glasgow.ac.uk
+  page-footer:
+    left: "© Daniela Castro-Camilo"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: right
+    smooth-scroll: true
+    link-external-newwindow: true

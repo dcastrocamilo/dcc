@@ -1,0 +1,120 @@
+---
+title: "Daniela Castro-Camilo"
+page-layout: full
+toc: false
+title-block-banner: false
+format:
+  html:
+    toc: false
+---
+
+::: {.homepage}
+
+::: {.hero-home}
+::: {.hero-inner}
+::: {.hero-copy}
+
+# Daniela Castro-Camilo
+
+::: {.hero-role}
+Senior Lecturer in Statistics  
+University of Glasgow
+:::
+
+::: {.hero-line}
+:::
+
+I develop statistical methods to understand, predict and attribute environmental and disaster-related extremes. My work lies at the interface of extreme value theory, spatial and spatio-temporal statistics, Bayesian inference and causal inference, with applications in the natural environment and critical infrastructure.
+
+A recurring theme in my work is the development of practical, user-friendly methods that better capture rare and impactful events, rather than treating them as outliers to be smoothed away.
+
+<!-- ::: {.hero-actions} -->
+<!-- [{{< fa file-lines >}} View CV](cv.pdf){.pill .pill-primary} -->
+<!-- [{{< fa envelope >}} Contact](mailto:Daniela.CastroCamilo@glasgow.ac.uk){.pill .pill-secondary} -->
+<!-- ::: -->
+
+:::
+
+::: {.hero-photo-wrap}
+![](assets/daniela-profile.png){.hero-photo fig-alt="Daniela Castro-Camilo"}
+:::
+:::
+:::
+
+::: {.glance-section}
+
+## Research at a glance
+
+::: {.title-rule}
+:::
+
+::: {.glance-grid}
+::: {.glance-card}
+<span class="research-icon">≋</span>
+
+<div class="glance-title">Causality for extremes</div>
+
+Extreme-event attribution and causal inference
+:::
+
+::: {.glance-card}
+<span class="research-icon">◎</span>
+
+<div class="glance-title">Spatial extremes</div>
+
+Dependence modelling in space and time
+:::
+
+::: {.glance-card}
+<span class="research-icon">⌬</span>
+<div class="glance-title">INLA and SPDE models</div>
+Fast Bayesian inference for spatial models
+:::
+
+::: {.glance-card}
+<span class="research-icon">△</span>
+<div class="glance-title">Landslide modelling</div>
+Hazard assessment and susceptibility modelling
+:::
+
+::: {.glance-card}
+<span class="research-icon">☘</span>
+<div class="glance-title">Extremes in environment & ecology</div>
+Statistical methods for environmental and ecological extremes
+
+:::
+
+::: {.glance-card}
+<span class="research-icon">ϟ</span>
+<div class="glance-title">Energy and infrastructure</div>
+Weather-driven risk for energy systems and critical infrastructure
+:::
+:::
+
+[Explore all research areas →](research.qmd){.explore-button}
+
+:::
+
+<!-- ::: {.contact-strip} -->
+<!-- ::: {.contact-item} -->
+<!-- <span class="contact-icon">🎓</span> -->
+<!-- <span>Senior Lecturer in Statistics<br>University of Glasgow</span> -->
+<!-- ::: -->
+
+<!-- ::: {.contact-item} -->
+<!-- <span class="contact-icon">📍</span> -->
+<!-- <span>James Watt South Building<br>Glasgow, UK</span> -->
+<!-- ::: -->
+
+<!-- ::: {.contact-item} -->
+<!-- <span class="contact-icon">✉</span> -->
+<!-- <span>[daniela.castro-camilo@glasgow.ac.uk](mailto:Daniela.CastroCamilo@glasgow.ac.uk)</span> -->
+<!-- ::: -->
+
+<!-- ::: {.contact-item} -->
+<!-- <span class="orcid-dot">iD</span> -->
+<!-- <span>[ORCID: 0000-0002-7536-4613](https://orcid.org/0000-0002-7536-4613)</span> -->
+<!-- ::: -->
+<!-- ::: -->
+
+:::

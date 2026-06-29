@@ -1,0 +1,39 @@
+---
+title: "Admin and service"
+subtitle: "Academic citizenship, editorial work, organisation and teaching"
+---
+
+## Professional service
+
+- Associate Editor, **Environmetrics**.
+- Associate Editor, **Journal of the Royal Statistical Society, Series C**.
+- Meeting Secretary, Environmental Statistics Section, Royal Statistical Society (2022-25).
+- Chair, International Environmetrics Society Outreach and Liaison Committee (2023-2025).
+- Elected Member, International Statistical Institute.
+
+## Event organisation and networks
+
+- Co-founder, **GLE²N: Glasgow--Edinburgh Extremes Network**, a network for applied, theoretical and methodological work in statistical risk analysis and extreme value theory. [Link here](https://glen-scotland.github.io/glen/)
+- Organiser, **INLA: Past, Present, and Future** biannual workshops. [Link here](https://inla-workshop.github.io/INLA-PastPresentFuture/)
+- Co-organiser, **EnvEcoStats**, environmental and ecological statistics conference.  [Link here](https://lancasterextremes.co.uk/)).
+<!-- - Organiser/co-organiser of invited sessions on extremes, environmental statistics and statistical risk. -->
+
+## Grants
+
+- **GEOBEx: Geostatistical Binary Models for Extremes**. EPSRC-funded project in collaboration with Carolina Euan, Lancaster University.
+- **Predict4Resilience beta phase**. Funded by the Office for Gas and Electricity Markets, in collaboration with Scottish Power, SIA Partners and the Met Office.
+- **Improving landslide hazard assessment in Scotland**. Funded by the Scottish Government through the National Centre for Resilience, with the British Geological Survey and the University of Twente.
+
+## University roles
+
+- Exam Officer for Statistics (2022-25).
+- Member of School of Mathematics & Statistics EDI committee.
+- Academic adviser of studies for MSc students.
+- Teaching across probability, statistics and statistical programming.
+
+## Teaching
+
+Recent teaching has included:
+
+- **STATS4047 / STATS5022: Principles of Probability and Statistics**
+- **STATS5103: Introduction to Statistical Programming in R and Python**

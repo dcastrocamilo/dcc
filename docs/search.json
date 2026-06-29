@@ -1,0 +1,275 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Daniela Castro-Camilo",
+    "section": "",
+    "text": "Senior Lecturer in Statistics\nUniversity of Glasgow\n\n\n\n\nI develop statistical methods to understand, predict and attribute environmental and disaster-related extremes. My work lies at the interface of extreme value theory, spatial and spatio-temporal statistics, Bayesian inference and causal inference, with applications in the natural environment and critical infrastructure.\nA recurring theme in my work is the development of practical, user-friendly methods that better capture rare and impactful events, rather than treating them as outliers to be smoothed away.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n≋\n\nCausality for extremes\n\nExtreme-event attribution and causal inference\n\n\n◎\n\nSpatial extremes\n\nDependence modelling in space and time\n\n\n⌬\n\nINLA and SPDE models\n\nFast Bayesian inference for spatial models\n\n\n△\n\nLandslide modelling\n\nHazard assessment and susceptibility modelling\n\n\n☘\n\nExtremes in environment & ecology\n\nStatistical methods for environmental and ecological extremes\n\n\nϟ\n\nEnergy and infrastructure\n\nWeather-driven risk for energy systems and critical infrastructure\n\n\nExplore all research areas →"
+  },
+  {
+    "objectID": "index.html#research-at-a-glance",
+    "href": "index.html#research-at-a-glance",
+    "title": "Daniela Castro-Camilo",
+    "section": "",
+    "text": "≋\n\nCausality for extremes\n\nExtreme-event attribution and causal inference\n\n\n◎\n\nSpatial extremes\n\nDependence modelling in space and time\n\n\n⌬\n\nINLA and SPDE models\n\nFast Bayesian inference for spatial models\n\n\n△\n\nLandslide modelling\n\nHazard assessment and susceptibility modelling\n\n\n☘\n\nExtremes in environment & ecology\n\nStatistical methods for environmental and ecological extremes\n\n\nϟ\n\nEnergy and infrastructure\n\nWeather-driven risk for energy systems and critical infrastructure\n\n\nExplore all research areas →"
+  },
+  {
+    "objectID": "admin.html",
+    "href": "admin.html",
+    "title": "Admin and service",
+    "section": "",
+    "text": "Associate Editor, Environmetrics.\nAssociate Editor, Journal of the Royal Statistical Society, Series C.\nMeeting Secretary, Environmental Statistics Section, Royal Statistical Society (2022-25).\nChair, International Environmetrics Society Outreach and Liaison Committee (2023-2025).\nElected Member, International Statistical Institute."
+  },
+  {
+    "objectID": "admin.html#professional-service",
+    "href": "admin.html#professional-service",
+    "title": "Admin and service",
+    "section": "",
+    "text": "Associate Editor, Environmetrics.\nAssociate Editor, Journal of the Royal Statistical Society, Series C.\nMeeting Secretary, Environmental Statistics Section, Royal Statistical Society (2022-25).\nChair, International Environmetrics Society Outreach and Liaison Committee (2023-2025).\nElected Member, International Statistical Institute."
+  },
+  {
+    "objectID": "admin.html#event-organisation-and-networks",
+    "href": "admin.html#event-organisation-and-networks",
+    "title": "Admin and service",
+    "section": "Event organisation and networks",
+    "text": "Event organisation and networks\n\nCo-founder, GLE²N: Glasgow–Edinburgh Extremes Network, a network for applied, theoretical and methodological work in statistical risk analysis and extreme value theory. Link here\nOrganiser, INLA: Past, Present, and Future biannual workshops. Link here\nCo-organiser, EnvEcoStats, environmental and ecological statistics conference. Link here)."
+  },
+  {
+    "objectID": "admin.html#grants-and-projects",
+    "href": "admin.html#grants-and-projects",
+    "title": "Admin and service",
+    "section": "Grants and projects",
+    "text": "Grants and projects\n\nGEOBEx: Geostatistical Binary Models for Extremes. EPSRC-funded project in collaboration with Carolina Euan, Lancaster University.\nPredict4Resilience beta phase. Funded by the Office for Gas and Electricity Markets, in collaboration with Scottish Power, SIA Partners and the Met Office.\nImproving landslide hazard assessment in Scotland. Funded by the Scottish Government through the National Centre for Resilience, with the British Geological Survey and the University of Twente."
+  },
+  {
+    "objectID": "admin.html#university-roles",
+    "href": "admin.html#university-roles",
+    "title": "Admin and service",
+    "section": "University roles",
+    "text": "University roles\n\nExam Officer for Statistics (2022-25).\nMember of School of Mathematics & Statistics EDI committee.\nAcademic adviser of studies for MSc students.\nTeaching across probability, statistics and statistical programming."
+  },
+  {
+    "objectID": "admin.html#teaching",
+    "href": "admin.html#teaching",
+    "title": "Admin and service",
+    "section": "Teaching",
+    "text": "Teaching\nRecent teaching has included:\n\nSTATS4047 / STATS5022: Principles of Probability and Statistics\nSTATS5103: Introduction to Statistical Programming in R and Python"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "This page lists publications by year. Topic links point to the research areas where each paper fits most naturally."
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "2026",
+    "text": "2026\n\nHu, C., Bispo, R. B., Rue, H., DaCamara, C. C., Swallow, B. and Castro-Camilo, D. (2026). XGBoost meets INLA: a two-stage spatio-temporal forecasting of wildfires in Portugal. Environmetrics, 37(3), e70089. DOI: 10.1002/env.70089.\nTopics: Spatial extremes, INLA/SPDE, Ecology & environment, Data fusion\nMaia, M., Castro-Camilo, D. and Browell, J. (2026). Probabilistic forecasting of weather-driven faults in electricity networks: a flexible approach for extreme and non-extreme events. Technometrics. Early online publication. DOI: 10.1080/00401706.2026.2649039.\nTopics: Energy risk, Tail modelling"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2025",
+    "text": "2025\n\nLi, M., Cuba, D., Hu, C. and Castro-Camilo, D. (2025). A wee exploration of techniques for risk assessments of extreme events. Extremes, 28(1), 101–121. DOI: 10.1007/s10687-024-00500-5.\nTopics: Risk assessment, Ecology & environment\nBryce, E., Castro-Camilo, D., Dashwood, C., Tanyas, H., Ciurean, R., Novellino, A. and Lombardo, L. (2025). An updated landslide susceptibility model and a log-Gaussian Cox process extension for Scotland. Landslides, 22(2), 517–535. DOI: 10.1007/s10346-024-02368-9.\nTopics: Landslide hazard, INLA/SPDE, Risk assessment"
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "2023",
+    "text": "2023\n\nDi Napoli, M., Tanyas, H., Castro-Camilo, D., Calcaterra, D., Cevasco, A., Di Martire, D., Pepe, G., Brandolini, P. and Lombardo, L. (2023). On the estimation of landslide intensity, hazard and density via data-driven models. Natural Hazards, 119(3), 1513–1530. DOI: 10.1007/s11069-023-06153-0.\nTopics: Landslide hazard\nNovellino, A., Ciurean, R., Bryce, E., Castro-Camilo, D. and Lombardo, L. (2023). Mitigating Landslides Impact in Scotland - MLIS. Summary Report. National Centre for Resilience.\nTopics: Landslide hazard, Risk assessment"
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Publications",
+    "section": "2022",
+    "text": "2022\n\nCastro-Camilo, D., Huser, R. and Rue, H. (2022). Practical strategies for GEV-based regression models for extremes. Environmetrics, 33(6), e2742. DOI: 10.1002/env.2742.\nTopics: Spatial extremes, Tail modelling, INLA/SPDE\nBryce, E., Lombardo, L., van Westen, C., Tanyas, H. and Castro-Camilo, D. (2022). Unified landslide hazard assessment using hurdle models: a case study in the Island of Dominica. Stochastic Environmental Research and Risk Assessment, 36(8), 2071–2084. DOI: 10.1007/s00477-022-02239-6.\nTopics: Landslide hazard, Risk assessment"
+  },
+  {
+    "objectID": "publications.html#section-4",
+    "href": "publications.html#section-4",
+    "title": "Publications",
+    "section": "2021",
+    "text": "2021\n\nLombardo, L., Tanyas, H., Huser, R., Guzzetti, F. and Castro-Camilo, D. (2021). Landslide size matters: a new data-driven, spatial prototype. Engineering Geology, 293, 106288. DOI: 10.1016/j.enggeo.2021.106288.\nTopics: Landslide hazard\nVandeskog, S. M., Martino, S. and Castro-Camilo, D. (2021). Modelling Block Maxima With the Blended Generalised Extreme Value Distribution. In: 22nd European Young Statisticians Meeting.\nTopics: Tail modelling\nCastro-Camilo, D., Mhalla, L. and Opitz, T. (2021). Bayesian space-time gap filling for inference on extreme hot-spots: an application to Red Sea surface temperatures. Extremes, 24(1), 105–128. DOI: 10.1007/s10687-020-00394-z.\nTopics: Spatial extremes, Data fusion, Ecology & environment"
+  },
+  {
+    "objectID": "publications.html#section-5",
+    "href": "publications.html#section-5",
+    "title": "Publications",
+    "section": "2020",
+    "text": "2020\n\nCastro-Camilo, D. and Huser, R. (2020). Local likelihood estimation of complex tail dependence structures, applied to U.S. precipitation extremes. Journal of the American Statistical Association, 115(531), 1037–1054. DOI: 10.1080/01621459.2019.1647842.\nTopics: Spatial extremes, Tail modelling, Risk assessment"
+  },
+  {
+    "objectID": "publications.html#section-6",
+    "href": "publications.html#section-6",
+    "title": "Publications",
+    "section": "2019",
+    "text": "2019\n\nAmato, G., Eisank, C., Castro-Camilo, D. and Lombardo, L. (2019). Accounting for covariate distributions in slope-unit-based landslide susceptibility models. A case study in the alpine environment. Engineering Geology, 260, 105237. DOI: 10.1016/j.enggeo.2019.105237.\nTopics: Landslide hazard\nCastro-Camilo, D., Huser, R. and Rue, H. (2019). A spliced Gamma-Generalized Pareto model for short-term extreme wind speed probabilistic forecasting. Journal of Agricultural, Biological and Environmental Statistics, 24(3), 517–534. DOI: 10.1007/s13253-019-00369-z.\nTopics: Energy risk, Tail modelling, INLA/SPDE"
+  },
+  {
+    "objectID": "publications.html#section-7",
+    "href": "publications.html#section-7",
+    "title": "Publications",
+    "section": "2018",
+    "text": "2018\n\nKrainski, E. T., Gómez-Rubio, V., Bakka, H., Lenzi, A., Castro-Camilo, D., Simpson, D., Lindgren, F. and Rue, H. (2018). Advanced Spatial Modeling With Stochastic Partial Differential Equations Using R and INLA. Chapman & Hall/CRC. DOI: 10.1201/9780429031892.\nTopics: INLA/SPDE, Spatial extremes\nBakka, H. C., Castro-Camilo, D., Franco-Villoria, M., Freni-Sterrantino, A., Huser, T. and Rue, H. (2018). Contributed discussion of “Using Stacking to Average Bayesian Predictive Distributions” by Yao et al. Bayesian Analysis, 13(3), 982–985. DOI: 10.1214/17-BA1091.\nTopics: INLA/SPDE, Bayesian modelling\nCastro-Camilo, D., de Carvalho, M. and Wadsworth, J. (2018). Time-varying extreme value dependence with application to leading European stock markets. Annals of Applied Statistics, 12(1), 283–309. DOI: 10.1214/17-AOAS1089.\nTopics: Tail modelling, Risk assessment"
+  },
+  {
+    "objectID": "publications.html#section-8",
+    "href": "publications.html#section-8",
+    "title": "Publications",
+    "section": "2017",
+    "text": "2017\n\nCastro-Camilo, D., Lombardo, L., Mai, P. M., Dou, J. and Huser, R. (2017). Handling high predictor dimensionality in slope-unit-based landslide susceptibility models through LASSO-penalized Generalized Linear Model. Environmental Modelling and Software, 97, 145–156. DOI: 10.1016/j.envsoft.2017.08.003.\nTopics: Landslide hazard\nCastro-Camilo, D. and de Carvalho, M. (2017). Spectral density regression for bivariate extremes. Stochastic Environmental Research and Risk Assessment, 31(7), 1603–1613. DOI: 10.1007/s00477-016-1257-z.\nTopics: Tail modelling, Risk assessment"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Click a research area to jump to a short description and related publications."
+  },
+  {
+    "objectID": "research.html#causality-for-extremes",
+    "href": "research.html#causality-for-extremes",
+    "title": "Research",
+    "section": "Causality for extremes",
+    "text": "Causality for extremes\nThis area develops statistical tools for causal questions where the object of interest is not the mean response, but the tail of a distribution: high quantiles, rare events, severe impacts and extreme-event attribution. Current work includes causal inference in the tails, treatment effects for extremes, structural discovery and climate/weather attribution.\nRelated publications and outputs\n\nLi, M., Cuba, D., Hu, C. and Castro-Camilo, D. (2025). A wee exploration of techniques for risk assessments of extreme events. Extremes, 28(1), 101–121.\nCurrent PhD project: Causal Inference in the Tails: Extreme Event Attribution, Treatment Effects, and Structural Discovery.\nRelated ongoing work: tail-calibrated quantile treatment effects for extreme event attribution."
+  },
+  {
+    "objectID": "research.html#spatial-extremes",
+    "href": "research.html#spatial-extremes",
+    "title": "Research",
+    "section": "Spatial and spatio-temporal extremes",
+    "text": "Spatial and spatio-temporal extremes\nI develop models for extremes observed over space and time, with applications to precipitation, temperature, wildfires, environmental pollution and other spatial hazards. The goal is to understand where and when rare events occur, how extremes cluster, and how dependence changes across environmental conditions.\nRelated publications\n\nCastro-Camilo, D. and Huser, R. (2020). Local likelihood estimation of complex tail dependence structures, applied to U.S. precipitation extremes. Journal of the American Statistical Association, 115(531), 1037–1054.\nCastro-Camilo, D., Mhalla, L. and Opitz, T. (2021). Bayesian space-time gap filling for inference on extreme hot-spots: an application to Red Sea surface temperatures. Extremes, 24(1), 105–128.\nCastro-Camilo, D., Huser, R. and Rue, H. (2022). Practical strategies for GEV-based regression models for extremes. Environmetrics, 33(6), e2742.\nHu, C., Bispo, R. B., Rue, H., DaCamara, C. C., Swallow, B. and Castro-Camilo, D. (2026). XGBoost meets INLA: a two-stage spatio-temporal forecasting of wildfires in Portugal. Environmetrics, 37(3), e70089."
+  },
+  {
+    "objectID": "research.html#inla-spde",
+    "href": "research.html#inla-spde",
+    "title": "Research",
+    "section": "INLA and SPDE models",
+    "text": "INLA and SPDE models\nA substantial part of my work uses Bayesian latent Gaussian models, INLA and SPDE-based representations of spatial and spatio-temporal random fields. I am interested both in methodological development and in making these tools usable for environmental and hazard applications.\nRelated publications\n\nKrainski, E. T., Gómez-Rubio, V., Bakka, H., Lenzi, A., Castro-Camilo, D., Simpson, D., Lindgren, F. and Rue, H. (2018). Advanced Spatial Modeling With Stochastic Partial Differential Equations Using R and INLA. Chapman & Hall/CRC.\nHu, C., Bispo, R. B., Rue, H., DaCamara, C. C., Swallow, B. and Castro-Camilo, D. (2026). XGBoost meets INLA: a two-stage spatio-temporal forecasting of wildfires in Portugal. Environmetrics, 37(3), e70089.\nBryce, E., Castro-Camilo, D., Dashwood, C., Tanyas, H., Ciurean, R., Novellino, A. and Lombardo, L. (2025). An updated landslide susceptibility model and a log-Gaussian Cox process extension for Scotland. Landslides, 22(2), 517–535.\nGEOBEx: Geostatistical Binary Models for Extremes, EPSRC-funded project."
+  },
+  {
+    "objectID": "research.html#landslide-hazard",
+    "href": "research.html#landslide-hazard",
+    "title": "Research",
+    "section": "Landslide hazard modelling",
+    "text": "Landslide hazard modelling\nThis work develops statistical approaches for landslide susceptibility, hazard, intensity and density. A key aim is to produce models that are statistically principled but still useful for natural-hazard assessment and decision-making.\nRelated publications and reports\n\nCastro-Camilo, D., Lombardo, L., Mai, P. M., Dou, J. and Huser, R. (2017). Handling high predictor dimensionality in slope-unit-based landslide susceptibility models through LASSO-penalized Generalized Linear Model. Environmental Modelling and Software, 97, 145–156.\nAmato, G., Eisank, C., Castro-Camilo, D. and Lombardo, L. (2019). Accounting for covariate distributions in slope-unit-based landslide susceptibility models. A case study in the alpine environment. Engineering Geology, 260, 105237.\nLombardo, L., Tanyas, H., Huser, R., Guzzetti, F. and Castro-Camilo, D. (2021). Landslide size matters: a new data-driven, spatial prototype. Engineering Geology, 293, 106288.\nBryce, E., Lombardo, L., van Westen, C., Tanyas, H. and Castro-Camilo, D. (2022). Unified landslide hazard assessment using hurdle models: a case study in the Island of Dominica. Stochastic Environmental Research and Risk Assessment, 36(8), 2071–2084.\nDi Napoli, M. et al. (2023). On the estimation of landslide intensity, hazard and density via data-driven models. Natural Hazards, 119(3), 1513–1530.\nNovellino, A. et al. (2023). Mitigating Landslides Impact in Scotland - MLIS. Summary Report. National Centre for Resilience.\nBryce, E. et al. (2025). An updated landslide susceptibility model and a log-Gaussian Cox process extension for Scotland. Landslides, 22(2), 517–535."
+  },
+  {
+    "objectID": "research.html#ecology-environment",
+    "href": "research.html#ecology-environment",
+    "title": "Research",
+    "section": "Extremes in ecology and the environment",
+    "text": "Extremes in ecology and the environment\nThis area covers environmental and ecological applications of extremes, including marine temperatures, wildfires, precipitation, weather hazards and environmental risk. The statistical challenge is to model rare events in settings where data are spatially structured, noisy, incomplete or physically constrained.\nRelated publications\n\nCastro-Camilo, D., Mhalla, L. and Opitz, T. (2021). Bayesian space-time gap filling for inference on extreme hot-spots: an application to Red Sea surface temperatures. Extremes, 24(1), 105–128.\nCastro-Camilo, D. and Huser, R. (2020). Local likelihood estimation of complex tail dependence structures, applied to U.S. precipitation extremes. JASA, 115(531), 1037–1054.\nHu, C. et al. (2026). XGBoost meets INLA: a two-stage spatio-temporal forecasting of wildfires in Portugal. Environmetrics, 37(3), e70089.\nLi, M. et al. (2025). A wee exploration of techniques for risk assessments of extreme events. Extremes, 28(1), 101–121."
+  },
+  {
+    "objectID": "research.html#energy-risk",
+    "href": "research.html#energy-risk",
+    "title": "Research",
+    "section": "Energy and weather-driven risk",
+    "text": "Energy and weather-driven risk\nThis research focuses on probabilistic forecasting and risk assessment for energy systems affected by weather. The emphasis is on modelling both routine behaviour and rare damaging events, especially where extremes matter for infrastructure resilience.\nRelated publications\n\nCastro-Camilo, D., Huser, R. and Rue, H. (2019). A spliced Gamma-Generalized Pareto model for short-term extreme wind speed probabilistic forecasting. Journal of Agricultural, Biological and Environmental Statistics, 24(3), 517–534.\nMaia, M., Castro-Camilo, D. and Browell, J. (2026). Probabilistic forecasting of weather-driven faults in electricity networks: a flexible approach for extreme and non-extreme events. Technometrics. Early online publication.\nPredict4Resilience beta phase, funded by Ofgem, in collaboration with Scottish Power, SIA Partners and the Met Office."
+  },
+  {
+    "objectID": "research.html#data-fusion",
+    "href": "research.html#data-fusion",
+    "title": "Research",
+    "section": "Data fusion for environmental extremes",
+    "text": "Data fusion for environmental extremes\nI am interested in combining multiple environmental data sources while preserving the behaviour of extremes. This includes blending in-situ observations, reanalysis products, model outputs and other imperfect sources while representing uncertainty and disagreement.\nRelated publications and outputs\n\nCastro-Camilo, D., Mhalla, L. and Opitz, T. (2021). Bayesian space-time gap filling for inference on extreme hot-spots: an application to Red Sea surface temperatures. Extremes, 24(1), 105–128.\nHu, C. et al. (2026). XGBoost meets INLA: a two-stage spatio-temporal forecasting of wildfires in Portugal. Environmetrics, 37(3), e70089.\nCurrent work on data fusion for PM2.5 extremes, combining monitoring data and atmospheric reanalysis.\nCurrent PhD project: Bayesian Spatio-Temporal Modelling of Extremes: Forecasting, Scoring, and Data Fusion."
+  },
+  {
+    "objectID": "research.html#tail-modelling",
+    "href": "research.html#tail-modelling",
+    "title": "Research",
+    "section": "Extreme value regression and tail modelling",
+    "text": "Extreme value regression and tail modelling\nThis work develops flexible regression models for extremes, including generalized extreme value, generalized Pareto, blended and spliced models, and approaches for tail dependence. The aim is to make tail models more robust, interpretable and useful in real applications.\nRelated publications\n\nCastro-Camilo, D. and de Carvalho, M. (2017). Spectral density regression for bivariate extremes. Stochastic Environmental Research and Risk Assessment, 31(7), 1603–1613.\nCastro-Camilo, D., de Carvalho, M. and Wadsworth, J. (2018). Time-varying extreme value dependence with application to leading European stock markets. Annals of Applied Statistics, 12(1), 283–309.\nCastro-Camilo, D., Huser, R. and Rue, H. (2019). A spliced Gamma-Generalized Pareto model for short-term extreme wind speed probabilistic forecasting. JABES, 24(3), 517–534.\nCastro-Camilo, D., Huser, R. and Rue, H. (2022). Practical strategies for GEV-based regression models for extremes. Environmetrics, 33(6), e2742.\nVandeskog, S. M., Martino, S. and Castro-Camilo, D. (2021). Modelling Block Maxima With the Blended Generalised Extreme Value Distribution. 22nd European Young Statisticians Meeting."
+  },
+  {
+    "objectID": "research.html#risk-assessment",
+    "href": "research.html#risk-assessment",
+    "title": "Research",
+    "section": "Risk assessment of extreme events",
+    "text": "Risk assessment of extreme events\nThis theme connects extreme value methodology with decision-relevant risk summaries. It includes quantifying rare-event probabilities, high quantiles, return levels, joint risks and measures that are interpretable for stakeholders.\nRelated publications\n\nLi, M., Cuba, D., Hu, C. and Castro-Camilo, D. (2025). A wee exploration of techniques for risk assessments of extreme events. Extremes, 28(1), 101–121.\nCastro-Camilo, D. and Huser, R. (2020). Local likelihood estimation of complex tail dependence structures, applied to U.S. precipitation extremes. JASA, 115(531), 1037–1054.\nCastro-Camilo, D., de Carvalho, M. and Wadsworth, J. (2018). Time-varying extreme value dependence with application to leading European stock markets. Annals of Applied Statistics, 12(1), 283–309."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "This page is intended as a clean landing page for slides, recordings and event links. Add links as they become available."
+  },
+  {
+    "objectID": "talks.html#selected-talks",
+    "href": "talks.html#selected-talks",
+    "title": "Talks",
+    "section": "Selected talks",
+    "text": "Selected talks\n\nTail-calibrated quantile treatment effects for extreme event attribution\nTalk on causal inference and high-quantile estimation for climate/weather extremes.\nPredicting multivariate extremes in environmental sciences\nGuest lecture / GLEN-related event page can be linked here.\nStatistically principled environmental AI\nPanel session on the role of statistical principles in environmental AI.\nINLA: Past, Present, and Future\nWorkshop in honour of Håvard Rue’s 60th birthday. Add slides and tutorials here."
+  },
+  {
+    "objectID": "talks.html#seminar-and-workshop-links",
+    "href": "talks.html#seminar-and-workshop-links",
+    "title": "Talks",
+    "section": "Seminar and workshop links",
+    "text": "Seminar and workshop links\n\nGLE²N: Glasgow–Edinburgh Extremes Network\nINLA: Past, Present, and Future\nEnvEcoStats"
+  },
+  {
+    "objectID": "talks.html#how-to-add-a-talk",
+    "href": "talks.html#how-to-add-a-talk",
+    "title": "Talks",
+    "section": "How to add a talk",
+    "text": "How to add a talk\nUse this template:\n- **Title of talk**  \n  Venue or event, month year.  \n  [Slides](#) · [Recording](#) · [Event page](#)"
+  },
+  {
+    "objectID": "supervision.html",
+    "href": "supervision.html",
+    "title": "Supervision",
+    "section": "",
+    "text": "I am happy to hear from motivated applicants interested in projects involving extremes, disaster-related statistics, spatial and spatio-temporal statistics, Bayesian inference, causal inference, environmental statistics and related areas.\nPossible PhD topics include:\n\ncausal inference for extremes and extreme event attribution;\ndownscaling and prediction of rainfall extremes from climate model outputs;\nBayesian spatio-temporal modelling of extremes;\ndata fusion for environmental extremes;\nlandslide hazard modelling;\nweather-driven risk in energy and infrastructure systems;\nstatistical methods for environmental AI.\n\nIf you are interested in doing a PhD, please email me at Daniela.CastroCamilo@glasgow.ac.uk with a short description of your interests, your CV and any relevant transcripts or writing samples."
+  },
+  {
+    "objectID": "supervision.html#opportunities-for-phd-applicants",
+    "href": "supervision.html#opportunities-for-phd-applicants",
+    "title": "Supervision",
+    "section": "",
+    "text": "I am happy to hear from motivated applicants interested in projects involving extremes, disaster-related statistics, spatial and spatio-temporal statistics, Bayesian inference, causal inference, environmental statistics and related areas.\nPossible PhD topics include:\n\ncausal inference for extremes and extreme event attribution;\ndownscaling and prediction of rainfall extremes from climate model outputs;\nBayesian spatio-temporal modelling of extremes;\ndata fusion for environmental extremes;\nlandslide hazard modelling;\nweather-driven risk in energy and infrastructure systems;\nstatistical methods for environmental AI.\n\nIf you are interested in doing a PhD, please email me at Daniela.CastroCamilo@glasgow.ac.uk with a short description of your interests, your CV and any relevant transcripts or writing samples."
+  },
+  {
+    "objectID": "supervision.html#current-phd-students",
+    "href": "supervision.html#current-phd-students",
+    "title": "Supervision",
+    "section": "Current PhD students",
+    "text": "Current PhD students\n\nTeng Wei Yeo\nBayesian Spatio-Temporal Modelling of Extremes: Forecasting, Scoring, and Data Fusion\nKirsty Ryman\nExtreme value theory for dispersal processes and animal movement in changing environments\nMengran Li\nCausal Inference in the Tails: Extreme Event Attribution, Treatment Effects, and Structural Discovery\nDoris Kyerewaa Akoto\nDownscaling and Prediction of Rainfall Extremes from Climate Model Outputs (RainX)\nMeyvizhi Sasibala Senthil Raja\nDeveloping novel ways to represent spatial patterns in disease risk"
+  },
+  {
+    "objectID": "supervision.html#visiting-phd-students",
+    "href": "supervision.html#visiting-phd-students",
+    "title": "Supervision",
+    "section": "Visiting PhD students",
+    "text": "Visiting PhD students\n\nLaura Aixala Perello, September–December 2023\nYandira Cuvero, February–March 2026"
+  },
+  {
+    "objectID": "supervision.html#honours-and-msc-project-supervision",
+    "href": "supervision.html#honours-and-msc-project-supervision",
+    "title": "Supervision",
+    "section": "Honours and MSc project supervision",
+    "text": "Honours and MSc project supervision\nPast honours projects include work by Caitlin Fox, Tianhao Tan, Mahi Siddika, Paddy O’Hara, Mengran Li, Erin Bryce, Louis Chislett, Holly Moran, Huinan Zhu, Maria Tsiarkezou, Samuele D’Avenia, Sixiang Chen, Rob Corner, Cara McPhail, Arran Boyle, Kirsty Ryman, Martha Tindall (won the PSI prize for best undergraduate final project), Amina Rage, Hend Alshehhi, Davide Rossi and Lapo Ceccarelli (see this solar nugget about Lapo’s dissertation!).\nPotential student projects usually sit around environmental extremes, spatial statistics, Bayesian modelling, statistical learning for hazards, and applications involving climate, ecology or natural hazards."
+  },
+  {
+    "objectID": "supervision.html#graduated-phd-students",
+    "href": "supervision.html#graduated-phd-students",
+    "title": "Supervision",
+    "section": "Graduated PhD students",
+    "text": "Graduated PhD students\n\nChenglei Hu\nFlexible Joint Modelling of Multivariate Extreme and Non-extreme Events Link to thesis\nErin Bryce\nAn exploration of spatio-temporal statistical models for landslide hazard assessment and prediction Link to thesis\nDaniela Cuba\nSpatial modelling of soil and air pollution extremes Link to thesis"
+  },
+  {
+    "objectID": "admin.html#grants",
+    "href": "admin.html#grants",
+    "title": "Admin and service",
+    "section": "Grants",
+    "text": "Grants\n\nGEOBEx: Geostatistical Binary Models for Extremes. EPSRC-funded project in collaboration with Carolina Euan, Lancaster University.\nPredict4Resilience beta phase. Funded by the Office for Gas and Electricity Markets, in collaboration with Scottish Power, SIA Partners and the Met Office.\nImproving landslide hazard assessment in Scotland. Funded by the Scottish Government through the National Centre for Resilience, with the British Geological Survey and the University of Twente."
+  }
+]

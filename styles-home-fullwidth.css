@@ -1,0 +1,22 @@
+
+/* Make hero section truly full width */
+.page-layout-article {
+  max-width: 100% !important;
+}
+
+main.content {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.hero-home {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  border-radius: 0;
+}
+
+/* Remove Quarto content width restrictions on home page */
+body .quarto-container {
+  max-width: 100% !important;
+}

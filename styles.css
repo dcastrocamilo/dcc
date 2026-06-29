@@ -1,0 +1,363 @@
+/* Daniela Castro-Camilo personal website */
+
+:root {
+  --dcc-navy: #092b5f;
+  --dcc-navy-2: #061f46;
+  --dcc-blue: #1d5aa6;
+  --dcc-light: #eef6ff;
+  --dcc-text: #0d2448;
+}
+
+body:has(.homepage) #title-block-header {
+  display: none !important;
+}
+
+/* Make hero section truly full width */
+.page-layout-article {
+  max-width: 100% !important;
+}
+
+/* Use the whole browser width and remove the right-hand page furniture on home */
+body {
+  color: var(--dcc-text);
+}
+
+.navbar {
+  min-height: 76px;
+  background: linear-gradient(90deg, var(--dcc-navy-2), var(--dcc-navy)) !important;
+  box-shadow: 0 1px 10px rgba(0,0,0,.18);
+}
+
+.navbar-brand {
+  font-size: 1.35rem;
+  font-weight: 700;
+  letter-spacing: .01em;
+}
+
+.navbar-nav .nav-link {
+  font-weight: 650;
+  padding-left: 1.15rem !important;
+  padding-right: 1.15rem !important;
+}
+
+#quarto-content,
+#quarto-document-content,
+main.content {
+  max-width: none !important;
+  width: 100% !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+body:has(.homepage) #quarto-sidebar,
+body:has(.homepage) #TOC,
+body:has(.homepage) .margin-sidebar,
+body:has(.homepage) .page-columns .column-margin {
+  display: none !important;
+}
+
+.homepage h1,
+.homepage h2,
+.homepage h3,
+.homepage p {
+  margin-top: 0;
+}
+  
+.hero-home {
+  width: 100vw;
+  min-height: 700px;
+  background-image: linear-gradient(90deg, rgba(5, 22, 46, .80), rgba(5, 22, 46, .45), rgba(5, 22, 46, .35)), url("assets/conic-hill-Jul24.png");
+  background-size: cover;
+  background-position: center;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  border-radius: 0;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.hero-inner {
+  width: min(1550px, calc(100% - 120px));
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1.05fr .95fr;
+  align-items: start;
+  gap: 5rem;
+  padding: 5.5rem 0 6rem;
+}
+
+.hero-copy h1 {
+  white-space: nowrap;
+  font-size: clamp(2.7rem, 4vw, 4.4rem);
+  line-height: 1.02;
+  margin-bottom: 1.25rem;
+  font-weight: 750;
+  letter-spacing: -.035em;
+  color: white;
+}
+
+.hero-role {
+  font-size: clamp(1.65rem, 2.5vw, 2.55rem);
+  line-height: 1.24;
+  font-weight: 650;
+  margin-bottom: 2.15rem;
+}
+
+.hero-line {
+  width: 112px;
+  height: 2px;
+  background: rgba(255,255,255,.92);
+  margin: 0 0 2.1rem;
+}
+
+.hero-copy p {
+  max-width: 720px;
+  font-size: clamp(1.08rem, 1.3vw, 1.45rem);
+  line-height: 1.55;
+  margin-bottom: 1.55rem;
+  font-weight: 450;
+  text-shadow: 0 1px 2px rgba(0,0,0,.25);
+}
+
+.hero-actions {
+  display: flex;
+  gap: 1rem;
+  margin-top: 2.4rem;
+  flex-wrap: wrap;
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  gap: .55rem;
+  border-radius: 999px;
+  padding: .75rem 1.45rem;
+  font-weight: 700;
+  text-decoration: none;
+  color: white !important;
+  border: 2px solid rgba(255,255,255,.82);
+  box-shadow: 0 6px 18px rgba(0,0,0,.20);
+}
+
+.pill-primary {
+  background: var(--dcc-navy);
+}
+
+.pill-secondary {
+  background: rgba(0,0,0,.28);
+}
+
+.pill:hover {
+  transform: translateY(-1px);
+  color: white !important;
+  text-decoration: none;
+}
+
+.hero-photo-wrap {
+  display: flex;
+  justify-content: center;
+  padding-top: 0.6rem;
+}
+
+
+.hero-photo {
+  width: 300px;
+  height: 300px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: center 31%;
+  border-radius: 50%;
+  border: 8px solid rgba(255,255,255,.96);
+  box-shadow: 0 18px 48px rgba(0,0,0,.40);
+  background: #ddd;
+}
+
+.glance-section {
+  background: #fff;
+  padding: 3rem min(8vw, 130px) 4rem;
+  text-align: center;
+}
+
+.glance-section h2 {
+  color: var(--dcc-navy);
+  font-size: clamp(2rem, 2.7vw, 2.8rem);
+  font-weight: 760;
+  margin-bottom: .9rem;
+}
+
+.glance-title {
+  color: var(--dcc-navy);
+  font-size: 1.35rem;
+  font-weight: 750;
+  margin-bottom: 0.8rem;
+}
+
+.title-rule {
+  width: 100px;
+  height: 2px;
+  background: var(--dcc-navy);
+  margin: 0 auto 2.2rem;
+  opacity: .65;
+}
+
+.glance-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 2.3rem;
+  align-items: start;
+  margin: 0 auto 2.6rem;
+  max-width: 1540px;
+}
+
+.glance-card {
+  color: var(--dcc-text);
+}
+
+.research-icon {
+  display: block;
+  color: #2f66b7;
+  font-size: 3.45rem;
+  line-height: 1;
+  margin-bottom: 1rem;
+  font-weight: 300;
+}
+
+.glance-card h3 {
+  color: var(--dcc-navy);
+  font-size: 1.22rem;
+  line-height: 1.22;
+  font-weight: 760;
+  margin-bottom: .9rem;
+}
+
+.glance-card p {
+  font-size: .98rem;
+  line-height: 1.55;
+  margin: 0 auto;
+  max-width: 220px;
+}
+
+.explore-button {
+  display: inline-flex;
+  background: var(--dcc-navy);
+  color: white !important;
+  text-decoration: none;
+  border-radius: 999px;
+  padding: .86rem 2rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  box-shadow: 0 8px 20px rgba(9,43,95,.22);
+}
+
+.explore-button:hover {
+  background: #0e3a80;
+  color: white !important;
+  text-decoration: none;
+}
+
+.contact-strip {
+  width: 100%;
+  background: linear-gradient(90deg, #eef6ff, #f8fbff);
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem;
+  padding: 2.7rem min(8vw, 130px);
+  align-items: center;
+}
+
+.contact-item {
+  display: flex;
+  gap: 1.15rem;
+  align-items: center;
+  color: var(--dcc-text);
+  font-weight: 650;
+  line-height: 1.45;
+}
+
+.contact-item a {
+  color: var(--dcc-text);
+  text-decoration: none;
+}
+
+.contact-icon {
+  font-size: 2.15rem;
+  line-height: 1;
+}
+
+.orcid-dot {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #a6ce39;
+  color: white;
+  font-weight: 800;
+  flex: 0 0 auto;
+}
+
+/* Existing research-page circular buttons */
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  justify-items: center;
+  margin: 2rem 0;
+}
+
+.research-item {
+  display: flex;
+  justify-content: center;
+}
+
+.research-button {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 1rem;
+  text-align: center;
+  text-decoration: none;
+  font-weight: 600;
+  line-height: 1.25;
+
+  background: #0b4f6c;
+  color: white;
+
+  transition: transform .2s, background .2s;
+}
+
+.research-button:hover {
+  transform: scale(1.05);
+  background: #083b50;
+}
+
+@media (max-width: 900px) {
+  .research-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .research-button {
+    width: 150px;
+    height: 150px;
+  }
+}
+
+/* Remove Quarto content width restrictions on home page */
+body .quarto-container {
+  max-width: 100% !important;
+}

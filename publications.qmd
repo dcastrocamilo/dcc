@@ -1,0 +1,81 @@
+---
+title: "Publications"
+subtitle: "Selected and full publication list"
+---
+
+This page lists publications by year. Topic links point to the research areas where each paper fits most naturally.
+
+## 2026
+
+1. Hu, C., Bispo, R. B., Rue, H., DaCamara, C. C., Swallow, B. and Castro-Camilo, D. (2026). *XGBoost meets INLA: a two-stage spatio-temporal forecasting of wildfires in Portugal*. **Environmetrics**, 37(3), e70089. DOI: [10.1002/env.70089](https://doi.org/10.1002/env.70089).  
+   **Topics:** [Spatial extremes](research.qmd#spatial-extremes), [INLA/SPDE](research.qmd#inla-spde), [Ecology & environment](research.qmd#ecology-environment), [Data fusion](research.qmd#data-fusion)
+
+2. Maia, M., Castro-Camilo, D. and Browell, J. (2026). *Probabilistic forecasting of weather-driven faults in electricity networks: a flexible approach for extreme and non-extreme events*. **Technometrics**. Early online publication. DOI: [10.1080/00401706.2026.2649039](https://doi.org/10.1080/00401706.2026.2649039).  
+   **Topics:** [Energy risk](research.qmd#energy-risk), [Tail modelling](research.qmd#tail-modelling)
+
+## 2025
+
+3. Li, M., Cuba, D., Hu, C. and Castro-Camilo, D. (2025). *A wee exploration of techniques for risk assessments of extreme events*. **Extremes**, 28(1), 101--121. DOI: [10.1007/s10687-024-00500-5](https://doi.org/10.1007/s10687-024-00500-5).  
+   **Topics:** [Risk assessment](research.qmd#risk-assessment), [Ecology & environment](research.qmd#ecology-environment)
+
+4. Bryce, E., Castro-Camilo, D., Dashwood, C., Tanyas, H., Ciurean, R., Novellino, A. and Lombardo, L. (2025). *An updated landslide susceptibility model and a log-Gaussian Cox process extension for Scotland*. **Landslides**, 22(2), 517--535. DOI: [10.1007/s10346-024-02368-9](https://doi.org/10.1007/s10346-024-02368-9).  
+   **Topics:** [Landslide hazard](research.qmd#landslide-hazard), [INLA/SPDE](research.qmd#inla-spde), [Risk assessment](research.qmd#risk-assessment)
+
+## 2023
+
+5. Di Napoli, M., Tanyas, H., Castro-Camilo, D., Calcaterra, D., Cevasco, A., Di Martire, D., Pepe, G., Brandolini, P. and Lombardo, L. (2023). *On the estimation of landslide intensity, hazard and density via data-driven models*. **Natural Hazards**, 119(3), 1513--1530. DOI: [10.1007/s11069-023-06153-0](https://doi.org/10.1007/s11069-023-06153-0).  
+   **Topics:** [Landslide hazard](research.qmd#landslide-hazard)
+
+6. Novellino, A., Ciurean, R., Bryce, E., Castro-Camilo, D. and Lombardo, L. (2023). *Mitigating Landslides Impact in Scotland - MLIS. Summary Report*. National Centre for Resilience.  
+   **Topics:** [Landslide hazard](research.qmd#landslide-hazard), [Risk assessment](research.qmd#risk-assessment)
+
+## 2022
+
+7. Castro-Camilo, D., Huser, R. and Rue, H. (2022). *Practical strategies for GEV-based regression models for extremes*. **Environmetrics**, 33(6), e2742. DOI: [10.1002/env.2742](https://doi.org/10.1002/env.2742).  
+   **Topics:** [Spatial extremes](research.qmd#spatial-extremes), [Tail modelling](research.qmd#tail-modelling), [INLA/SPDE](research.qmd#inla-spde)
+
+8. Bryce, E., Lombardo, L., van Westen, C., Tanyas, H. and Castro-Camilo, D. (2022). *Unified landslide hazard assessment using hurdle models: a case study in the Island of Dominica*. **Stochastic Environmental Research and Risk Assessment**, 36(8), 2071--2084. DOI: [10.1007/s00477-022-02239-6](https://doi.org/10.1007/s00477-022-02239-6).  
+   **Topics:** [Landslide hazard](research.qmd#landslide-hazard), [Risk assessment](research.qmd#risk-assessment)
+
+## 2021
+
+9. Lombardo, L., Tanyas, H., Huser, R., Guzzetti, F. and Castro-Camilo, D. (2021). *Landslide size matters: a new data-driven, spatial prototype*. **Engineering Geology**, 293, 106288. DOI: [10.1016/j.enggeo.2021.106288](https://doi.org/10.1016/j.enggeo.2021.106288).  
+   **Topics:** [Landslide hazard](research.qmd#landslide-hazard)
+
+10. Vandeskog, S. M., Martino, S. and Castro-Camilo, D. (2021). *Modelling Block Maxima With the Blended Generalised Extreme Value Distribution*. In: 22nd European Young Statisticians Meeting.  
+    **Topics:** [Tail modelling](research.qmd#tail-modelling)
+
+11. Castro-Camilo, D., Mhalla, L. and Opitz, T. (2021). *Bayesian space-time gap filling for inference on extreme hot-spots: an application to Red Sea surface temperatures*. **Extremes**, 24(1), 105--128. DOI: [10.1007/s10687-020-00394-z](https://doi.org/10.1007/s10687-020-00394-z).  
+    **Topics:** [Spatial extremes](research.qmd#spatial-extremes), [Data fusion](research.qmd#data-fusion), [Ecology & environment](research.qmd#ecology-environment)
+
+## 2020
+
+12. Castro-Camilo, D. and Huser, R. (2020). *Local likelihood estimation of complex tail dependence structures, applied to U.S. precipitation extremes*. **Journal of the American Statistical Association**, 115(531), 1037--1054. DOI: [10.1080/01621459.2019.1647842](https://doi.org/10.1080/01621459.2019.1647842).  
+    **Topics:** [Spatial extremes](research.qmd#spatial-extremes), [Tail modelling](research.qmd#tail-modelling), [Risk assessment](research.qmd#risk-assessment)
+
+## 2019
+
+13. Amato, G., Eisank, C., Castro-Camilo, D. and Lombardo, L. (2019). *Accounting for covariate distributions in slope-unit-based landslide susceptibility models. A case study in the alpine environment*. **Engineering Geology**, 260, 105237. DOI: [10.1016/j.enggeo.2019.105237](https://doi.org/10.1016/j.enggeo.2019.105237).  
+    **Topics:** [Landslide hazard](research.qmd#landslide-hazard)
+
+14. Castro-Camilo, D., Huser, R. and Rue, H. (2019). *A spliced Gamma-Generalized Pareto model for short-term extreme wind speed probabilistic forecasting*. **Journal of Agricultural, Biological and Environmental Statistics**, 24(3), 517--534. DOI: [10.1007/s13253-019-00369-z](https://doi.org/10.1007/s13253-019-00369-z).  
+    **Topics:** [Energy risk](research.qmd#energy-risk), [Tail modelling](research.qmd#tail-modelling), [INLA/SPDE](research.qmd#inla-spde)
+
+## 2018
+
+15. Krainski, E. T., Gómez-Rubio, V., Bakka, H., Lenzi, A., Castro-Camilo, D., Simpson, D., Lindgren, F. and Rue, H. (2018). *Advanced Spatial Modeling With Stochastic Partial Differential Equations Using R and INLA*. Chapman & Hall/CRC. DOI: [10.1201/9780429031892](https://doi.org/10.1201/9780429031892).  
+    **Topics:** [INLA/SPDE](research.qmd#inla-spde), [Spatial extremes](research.qmd#spatial-extremes)
+
+16. Bakka, H. C., Castro-Camilo, D., Franco-Villoria, M., Freni-Sterrantino, A., Huser, T. and Rue, H. (2018). *Contributed discussion of "Using Stacking to Average Bayesian Predictive Distributions" by Yao et al.* **Bayesian Analysis**, 13(3), 982--985. DOI: [10.1214/17-BA1091](https://doi.org/10.1214/17-BA1091).  
+    **Topics:** [INLA/SPDE](research.qmd#inla-spde), Bayesian modelling
+
+17. Castro-Camilo, D., de Carvalho, M. and Wadsworth, J. (2018). *Time-varying extreme value dependence with application to leading European stock markets*. **Annals of Applied Statistics**, 12(1), 283--309. DOI: [10.1214/17-AOAS1089](https://doi.org/10.1214/17-AOAS1089).  
+    **Topics:** [Tail modelling](research.qmd#tail-modelling), [Risk assessment](research.qmd#risk-assessment)
+
+## 2017
+
+18. Castro-Camilo, D., Lombardo, L., Mai, P. M., Dou, J. and Huser, R. (2017). *Handling high predictor dimensionality in slope-unit-based landslide susceptibility models through LASSO-penalized Generalized Linear Model*. **Environmental Modelling and Software**, 97, 145--156. DOI: [10.1016/j.envsoft.2017.08.003](https://doi.org/10.1016/j.envsoft.2017.08.003).  
+    **Topics:** [Landslide hazard](research.qmd#landslide-hazard)
+
+19. Castro-Camilo, D. and de Carvalho, M. (2017). *Spectral density regression for bivariate extremes*. **Stochastic Environmental Research and Risk Assessment**, 31(7), 1603--1613. DOI: [10.1007/s00477-016-1257-z](https://doi.org/10.1007/s00477-016-1257-z).  
+    **Topics:** [Tail modelling](research.qmd#tail-modelling), [Risk assessment](research.qmd#risk-assessment)

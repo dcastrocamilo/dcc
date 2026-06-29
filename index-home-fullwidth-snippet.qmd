@@ -1,0 +1,11 @@
+
+---
+title: ""
+page-layout: full
+---
+
+<div class="hero-home">
+
+<!-- your existing hero content -->
+
+</div>

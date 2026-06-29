@@ -1,0 +1,36 @@
+---
+title: "Talks"
+subtitle: "Selected talks, lectures and event pages"
+---
+
+This page is intended as a clean landing page for slides, recordings and event links. Add links as they become available.
+
+## Selected talks
+
+- **Tail-calibrated quantile treatment effects for extreme event attribution**  
+  Talk on causal inference and high-quantile estimation for climate/weather extremes.
+
+- **Predicting multivariate extremes in environmental sciences**  
+  Guest lecture / GLEN-related event page can be linked here.
+
+- **Statistically principled environmental AI**  
+  Panel session on the role of statistical principles in environmental AI.
+
+- **INLA: Past, Present, and Future**  
+  Workshop in honour of Håvard Rue's 60th birthday. Add slides and tutorials here.
+
+## Seminar and workshop links
+
+- [GLE²N: Glasgow--Edinburgh Extremes Network](https://glen-scotland.github.io/glen/)
+- [INLA: Past, Present, and Future](https://dcastrocamilo.github.io/INLA-PastPresentFuture/)
+- [EnvEcoStats](https://envecostats.wordpress.com/)
+
+## How to add a talk
+
+Use this template:
+
+```markdown
+- **Title of talk**  
+  Venue or event, month year.  
+  [Slides](#) · [Recording](#) · [Event page](#)
+```

@@ -1,0 +1,146 @@
+---
+title: "Research"
+subtitle: "Research areas and related publications"
+---
+
+Click a research area to jump to a short description and related publications.
+
+::: {.research-grid}
+
+::: {.research-item}
+[Causality for extremes](#causality-for-extremes){.research-button}
+:::
+
+::: {.research-item}
+[Spatial extremes](#spatial-extremes){.research-button}
+:::
+
+::: {.research-item}
+[INLA/SPDE](#inla-spde){.research-button}
+:::
+
+::: {.research-item}
+[Landslide hazard](#landslide-hazard){.research-button}
+:::
+
+::: {.research-item}
+[Ecology & environment](#ecology-environment){.research-button}
+:::
+
+::: {.research-item}
+[Energy risk](#energy-risk){.research-button}
+:::
+
+::: {.research-item}
+[Data fusion](#data-fusion){.research-button}
+:::
+
+::: {.research-item}
+[Tail modelling](#tail-modelling){.research-button}
+:::
+
+::: {.research-item}
+[Risk assessment](#risk-assessment){.research-button}
+:::
+
+:::
+
+## Causality for extremes {#causality-for-extremes}
+
+This area develops statistical tools for causal questions where the object of interest is not the mean response, but the tail of a distribution: high quantiles, rare events, severe impacts and extreme-event attribution. Current work includes causal inference in the tails, treatment effects for extremes, structural discovery and climate/weather attribution.
+
+**Related publications and outputs**
+
+- Li, M., Cuba, D., Hu, C. and Castro-Camilo, D. (2025). *A wee exploration of techniques for risk assessments of extreme events*. **Extremes**, 28(1), 101--121.
+- Current PhD project: *Causal Inference in the Tails: Extreme Event Attribution, Treatment Effects, and Structural Discovery*.
+- Related ongoing work: tail-calibrated quantile treatment effects for extreme event attribution.
+
+## Spatial and spatio-temporal extremes {#spatial-extremes}
+
+I develop models for extremes observed over space and time, with applications to precipitation, temperature, wildfires, environmental pollution and other spatial hazards. The goal is to understand where and when rare events occur, how extremes cluster, and how dependence changes across environmental conditions.
+
+**Related publications**
+
+- Castro-Camilo, D. and Huser, R. (2020). *Local likelihood estimation of complex tail dependence structures, applied to U.S. precipitation extremes*. **Journal of the American Statistical Association**, 115(531), 1037--1054.
+- Castro-Camilo, D., Mhalla, L. and Opitz, T. (2021). *Bayesian space-time gap filling for inference on extreme hot-spots: an application to Red Sea surface temperatures*. **Extremes**, 24(1), 105--128.
+- Castro-Camilo, D., Huser, R. and Rue, H. (2022). *Practical strategies for GEV-based regression models for extremes*. **Environmetrics**, 33(6), e2742.
+- Hu, C., Bispo, R. B., Rue, H., DaCamara, C. C., Swallow, B. and Castro-Camilo, D. (2026). *XGBoost meets INLA: a two-stage spatio-temporal forecasting of wildfires in Portugal*. **Environmetrics**, 37(3), e70089.
+
+## INLA and SPDE models {#inla-spde}
+
+A substantial part of my work uses Bayesian latent Gaussian models, INLA and SPDE-based representations of spatial and spatio-temporal random fields. I am interested both in methodological development and in making these tools usable for environmental and hazard applications.
+
+**Related publications**
+
+- Krainski, E. T., Gómez-Rubio, V., Bakka, H., Lenzi, A., Castro-Camilo, D., Simpson, D., Lindgren, F. and Rue, H. (2018). *Advanced Spatial Modeling With Stochastic Partial Differential Equations Using R and INLA*. Chapman & Hall/CRC.
+- Hu, C., Bispo, R. B., Rue, H., DaCamara, C. C., Swallow, B. and Castro-Camilo, D. (2026). *XGBoost meets INLA: a two-stage spatio-temporal forecasting of wildfires in Portugal*. **Environmetrics**, 37(3), e70089.
+- Bryce, E., Castro-Camilo, D., Dashwood, C., Tanyas, H., Ciurean, R., Novellino, A. and Lombardo, L. (2025). *An updated landslide susceptibility model and a log-Gaussian Cox process extension for Scotland*. **Landslides**, 22(2), 517--535.
+- GEOBEx: *Geostatistical Binary Models for Extremes*, EPSRC-funded project.
+
+## Landslide hazard modelling {#landslide-hazard}
+
+This work develops statistical approaches for landslide susceptibility, hazard, intensity and density. A key aim is to produce models that are statistically principled but still useful for natural-hazard assessment and decision-making.
+
+**Related publications and reports**
+
+- Castro-Camilo, D., Lombardo, L., Mai, P. M., Dou, J. and Huser, R. (2017). *Handling high predictor dimensionality in slope-unit-based landslide susceptibility models through LASSO-penalized Generalized Linear Model*. **Environmental Modelling and Software**, 97, 145--156.
+- Amato, G., Eisank, C., Castro-Camilo, D. and Lombardo, L. (2019). *Accounting for covariate distributions in slope-unit-based landslide susceptibility models. A case study in the alpine environment*. **Engineering Geology**, 260, 105237.
+- Lombardo, L., Tanyas, H., Huser, R., Guzzetti, F. and Castro-Camilo, D. (2021). *Landslide size matters: a new data-driven, spatial prototype*. **Engineering Geology**, 293, 106288.
+- Bryce, E., Lombardo, L., van Westen, C., Tanyas, H. and Castro-Camilo, D. (2022). *Unified landslide hazard assessment using hurdle models: a case study in the Island of Dominica*. **Stochastic Environmental Research and Risk Assessment**, 36(8), 2071--2084.
+- Di Napoli, M. et al. (2023). *On the estimation of landslide intensity, hazard and density via data-driven models*. **Natural Hazards**, 119(3), 1513--1530.
+- Novellino, A. et al. (2023). *Mitigating Landslides Impact in Scotland - MLIS. Summary Report*. National Centre for Resilience.
+- Bryce, E. et al. (2025). *An updated landslide susceptibility model and a log-Gaussian Cox process extension for Scotland*. **Landslides**, 22(2), 517--535.
+
+## Extremes in ecology and the environment {#ecology-environment}
+
+This area covers environmental and ecological applications of extremes, including marine temperatures, wildfires, precipitation, weather hazards and environmental risk. The statistical challenge is to model rare events in settings where data are spatially structured, noisy, incomplete or physically constrained.
+
+**Related publications**
+
+- Castro-Camilo, D., Mhalla, L. and Opitz, T. (2021). *Bayesian space-time gap filling for inference on extreme hot-spots: an application to Red Sea surface temperatures*. **Extremes**, 24(1), 105--128.
+- Castro-Camilo, D. and Huser, R. (2020). *Local likelihood estimation of complex tail dependence structures, applied to U.S. precipitation extremes*. **JASA**, 115(531), 1037--1054.
+- Hu, C. et al. (2026). *XGBoost meets INLA: a two-stage spatio-temporal forecasting of wildfires in Portugal*. **Environmetrics**, 37(3), e70089.
+- Li, M. et al. (2025). *A wee exploration of techniques for risk assessments of extreme events*. **Extremes**, 28(1), 101--121.
+
+## Energy and weather-driven risk {#energy-risk}
+
+This research focuses on probabilistic forecasting and risk assessment for energy systems affected by weather. The emphasis is on modelling both routine behaviour and rare damaging events, especially where extremes matter for infrastructure resilience.
+
+**Related publications**
+
+- Castro-Camilo, D., Huser, R. and Rue, H. (2019). *A spliced Gamma-Generalized Pareto model for short-term extreme wind speed probabilistic forecasting*. **Journal of Agricultural, Biological and Environmental Statistics**, 24(3), 517--534.
+- Maia, M., Castro-Camilo, D. and Browell, J. (2026). *Probabilistic forecasting of weather-driven faults in electricity networks: a flexible approach for extreme and non-extreme events*. **Technometrics**. Early online publication.
+- Predict4Resilience beta phase, funded by Ofgem, in collaboration with Scottish Power, SIA Partners and the Met Office.
+
+## Data fusion for environmental extremes {#data-fusion}
+
+I am interested in combining multiple environmental data sources while preserving the behaviour of extremes. This includes blending in-situ observations, reanalysis products, model outputs and other imperfect sources while representing uncertainty and disagreement.
+
+**Related publications and outputs**
+
+- Castro-Camilo, D., Mhalla, L. and Opitz, T. (2021). *Bayesian space-time gap filling for inference on extreme hot-spots: an application to Red Sea surface temperatures*. **Extremes**, 24(1), 105--128.
+- Hu, C. et al. (2026). *XGBoost meets INLA: a two-stage spatio-temporal forecasting of wildfires in Portugal*. **Environmetrics**, 37(3), e70089.
+- Current work on data fusion for PM2.5 extremes, combining monitoring data and atmospheric reanalysis.
+- Current PhD project: *Bayesian Spatio-Temporal Modelling of Extremes: Forecasting, Scoring, and Data Fusion*.
+
+## Extreme value regression and tail modelling {#tail-modelling}
+
+This work develops flexible regression models for extremes, including generalized extreme value, generalized Pareto, blended and spliced models, and approaches for tail dependence. The aim is to make tail models more robust, interpretable and useful in real applications.
+
+**Related publications**
+
+- Castro-Camilo, D. and de Carvalho, M. (2017). *Spectral density regression for bivariate extremes*. **Stochastic Environmental Research and Risk Assessment**, 31(7), 1603--1613.
+- Castro-Camilo, D., de Carvalho, M. and Wadsworth, J. (2018). *Time-varying extreme value dependence with application to leading European stock markets*. **Annals of Applied Statistics**, 12(1), 283--309.
+- Castro-Camilo, D., Huser, R. and Rue, H. (2019). *A spliced Gamma-Generalized Pareto model for short-term extreme wind speed probabilistic forecasting*. **JABES**, 24(3), 517--534.
+- Castro-Camilo, D., Huser, R. and Rue, H. (2022). *Practical strategies for GEV-based regression models for extremes*. **Environmetrics**, 33(6), e2742.
+- Vandeskog, S. M., Martino, S. and Castro-Camilo, D. (2021). *Modelling Block Maxima With the Blended Generalised Extreme Value Distribution*. 22nd European Young Statisticians Meeting.
+
+## Risk assessment of extreme events {#risk-assessment}
+
+This theme connects extreme value methodology with decision-relevant risk summaries. It includes quantifying rare-event probabilities, high quantiles, return levels, joint risks and measures that are interpretable for stakeholders.
+
+**Related publications**
+
+- Li, M., Cuba, D., Hu, C. and Castro-Camilo, D. (2025). *A wee exploration of techniques for risk assessments of extreme events*. **Extremes**, 28(1), 101--121.
+- Castro-Camilo, D. and Huser, R. (2020). *Local likelihood estimation of complex tail dependence structures, applied to U.S. precipitation extremes*. **JASA**, 115(531), 1037--1054.
+- Castro-Camilo, D., de Carvalho, M. and Wadsworth, J. (2018). *Time-varying extreme value dependence with application to leading European stock markets*. **Annals of Applied Statistics**, 12(1), 283--309.

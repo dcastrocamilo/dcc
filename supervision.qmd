@@ -1,0 +1,63 @@
+---
+title: "Supervision"
+subtitle: "PhD, visiting PhD, MSc and honours supervision"
+---
+
+## Opportunities for PhD applicants
+
+I am happy to hear from motivated applicants interested in projects involving extremes, disaster-related statistics, spatial and spatio-temporal statistics, Bayesian inference, causal inference, environmental statistics and related areas.
+
+Possible PhD topics include:
+
+- causal inference for extremes and extreme event attribution;
+- downscaling and prediction of rainfall extremes from climate model outputs;
+- Bayesian spatio-temporal modelling of extremes;
+- data fusion for environmental extremes;
+- landslide hazard modelling;
+- weather-driven risk in energy and infrastructure systems;
+- statistical methods for environmental AI.
+
+If you are interested in doing a PhD, please email me at [Daniela.CastroCamilo@glasgow.ac.uk](mailto:Daniela.CastroCamilo@glasgow.ac.uk) with a short description of your interests, your CV and any relevant transcripts or writing samples.
+
+## Current PhD students
+
+- **Teng Wei Yeo**  
+  *Bayesian Spatio-Temporal Modelling of Extremes: Forecasting, Scoring, and Data Fusion*
+
+- **Kirsty Ryman**  
+  *Extreme value theory for dispersal processes and animal movement in changing environments*
+
+- **Mengran Li**  
+  *Causal Inference in the Tails: Extreme Event Attribution, Treatment Effects, and Structural Discovery*
+
+- **Doris Kyerewaa Akoto**  
+  *Downscaling and Prediction of Rainfall Extremes from Climate Model Outputs (RainX)*
+
+- **Meyvizhi Sasibala Senthil Raja**  
+  *Developing novel ways to represent spatial patterns in disease risk*
+
+
+## Graduated PhD students
+
+- **Chenglei Hu**  
+  *Flexible Joint Modelling of Multivariate Extreme and Non-extreme Events*<br>
+  [Link to thesis](https://theses.gla.ac.uk/85833/)
+  
+- **Erin Bryce**  
+  *An exploration of spatio-temporal statistical models for landslide hazard assessment and prediction*<br>
+  [Link to thesis](https://theses.gla.ac.uk/85477/)
+
+- **Daniela Cuba**  
+  *Spatial modelling of soil and air pollution extremes*<br>
+  [Link to thesis](https://theses.gla.ac.uk/84667/)
+
+## Visiting PhD students
+
+- **Laura Aixala Perello**, September--December 2023
+- **Yandira Cuvero**, February--March 2026
+
+## Honours and MSc project supervision
+
+Past honours projects include work by Caitlin Fox, Tianhao Tan, Mahi Siddika, Paddy O'Hara, Mengran Li, Erin Bryce, Louis Chislett, Holly Moran, Huinan Zhu, Maria Tsiarkezou, Samuele D'Avenia, Sixiang Chen, Rob Corner,  Cara McPhail, Arran Boyle, Kirsty Ryman, Martha Tindall (won the [PSI prize](https://psiweb.org/careers) for best undergraduate final project), Amina Rage, Hend Alshehhi, Davide Rossi and Lapo Ceccarelli (see this [solar nugget](https://heliowiki.smce.nasa.gov/wiki/index.php/How_Extreme_Can_Solar_Flares_Get%3F_A_Statistical_View) about Lapo's dissertation!).
+
+Potential student projects usually sit around environmental extremes, spatial statistics, Bayesian modelling, statistical learning for hazards, and applications involving climate, ecology or natural hazards.
